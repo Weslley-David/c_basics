@@ -1,2 +1,2 @@
 # c++_basics
-Alguns conceitos básicos de c++
+Alguns conceitos básicos de c e c++
